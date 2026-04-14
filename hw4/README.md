@@ -32,7 +32,7 @@ Test Accuracy: 0.526 (0.008)
 
 Finetuning for CFIMDB:
 Dev Accuracy: 0.966 (0.007)
-Test Accuracy: -
+Test Accuracy: 0.975 (0.007)
 
 ### Submission
 The submission file should be a zip file with the following structure (assuming the campus id is ``CAMPUSID``):
